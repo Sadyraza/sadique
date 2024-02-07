@@ -2,5 +2,9 @@ hello testing for the file avaialbility in all the branch
 happy to know about 
 !!!:w
 :wq
+<<<<<<< HEAD
 Cfrom TestDemby sadiquewo
 adding from some new thing to verfiy the conflic
+=======
+hi sadiquedding some point by master branch
+>>>>>>> d67dc2dcc19ad42ab89a5f376f16b67517aa2c5a
